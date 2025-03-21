@@ -1,0 +1,7 @@
+{
+  "border_colors": ["#0f9", "#09f"],
+  "border_colors_night": ["#095", "#059"],
+  "alpha": 0.5,
+  "border_width": "2em",
+  "fade_out": true
+}
