@@ -80,6 +80,7 @@ class NewCardHighlighter:
 .border-highlight{{
 border: solid {border_width};
 border-color: {border_color};
+pointer-events: none; 
 margin: 0;
 padding: 0;
 position: fixed;
